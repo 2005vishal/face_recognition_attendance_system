@@ -173,7 +173,7 @@ if app_mode == "Add New Member":
 
                     ret, frame = st.session_state['cap'].read()
                     if ret:
-                        st.image(frame, channels="BGR", use_column_width=True)
+                        st.image(frame, channels="BGR", use_container_width=True)
 
                     if st.button("📷 **Capture**", key=f"capture_button_{current_step}"):
                         rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)

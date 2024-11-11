@@ -781,3 +781,81 @@
 2024-11-09 11:05:33,905 - INFO - Recognized faces: ['Unknown']
 2024-11-09 11:05:34,646 - INFO - Recognized faces: ['Unknown']
 2024-11-09 11:05:35,426 - INFO - Recognized faces: ['Unknown']
+2024-11-11 07:19:02,978 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:19:02,981 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:19:02,981 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:19:03,576 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:19:05,602 - INFO - Recognized faces: []
+2024-11-11 07:19:06,459 - INFO - Recognized faces: []
+2024-11-11 07:19:06,795 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:19:06,795 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:19:06,797 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:19:06,799 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:19:08,427 - INFO - Recognized faces: ['Unknown']
+2024-11-11 07:19:13,229 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:19:13,229 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:19:13,231 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:19:13,232 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:19:13,237 - INFO - Admin authenticated for adding member.
+2024-11-11 07:19:13,806 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:19:13,806 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:19:13,806 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:19:13,822 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:21:29,329 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:21:29,329 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:21:29,329 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:21:29,837 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:21:31,340 - INFO - Recognized faces: []
+2024-11-11 07:21:33,069 - INFO - Recognized faces: ['Unknown']
+2024-11-11 07:21:33,796 - INFO - Recognized faces: []
+2024-11-11 07:21:34,103 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:21:34,116 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:21:34,116 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:21:34,119 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:21:34,550 - INFO - Recognized faces: []
+2024-11-11 07:21:39,717 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:21:39,717 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:21:39,717 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:21:39,717 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:21:39,728 - INFO - Admin authenticated for adding member.
+2024-11-11 07:21:40,648 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:21:40,648 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:21:40,648 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:21:40,650 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:21:45,621 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:21:45,621 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:21:45,621 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:21:45,624 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:21:55,206 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:21:55,206 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:21:55,208 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:21:55,210 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:22:02,354 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:22:02,381 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:22:02,381 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:22:02,388 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:22:06,234 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:22:06,234 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:22:06,234 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:22:06,235 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:22:07,317 - INFO - No existing face data found. Starting fresh.
+2024-11-11 07:22:07,317 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:22:07,319 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:22:07,319 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:22:08,338 - INFO - Face data saved successfully.
+2024-11-11 07:22:08,338 - INFO - Added new member: VISHAL PATWA (Roll No: demo123456d) with 1 encodings.
+2024-11-11 07:22:08,338 - INFO - New member 'VISHAL PATWA' with Roll Number 'demo123456d' registered successfully.
+2024-11-11 07:22:36,200 - INFO - Loaded 1 member(s) from storage.
+2024-11-11 07:22:36,200 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:22:36,200 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:22:36,204 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:22:38,249 - INFO - Attendance marked for VISHAL PATWA (Roll No: demo123456d) at 07:22:38 on 2024-11-11.
+2024-11-11 07:22:38,249 - INFO - Recognized faces: ['VISHAL PATWA']
+2024-11-11 07:22:39,941 - INFO - Recognized faces: ['VISHAL PATWA']
+2024-11-11 07:22:41,607 - INFO - Recognized faces: ['VISHAL PATWA']
+2024-11-11 07:22:43,179 - INFO - Recognized faces: ['VISHAL PATWA']
+2024-11-11 07:22:43,183 - INFO - Loaded 1 member(s) from storage.
+2024-11-11 07:22:43,183 - INFO - Attendance file 'attendance.csv' found.
+2024-11-11 07:22:43,184 - INFO - LiveFaceRecognizer initialized.
+2024-11-11 07:22:43,194 - INFO - LiveFaceRecognizer initialized successfully.
+2024-11-11 07:22:43,377 - INFO - Displayed attendance records.
